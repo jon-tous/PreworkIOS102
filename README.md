@@ -6,7 +6,7 @@ My Introduction is an app that allows users to input various information about t
 
 ### App Walk-though
 
-`TODO://`
+<img src="https://github.com/jon-tous/PreworkIOS102/blob/main/prework-ios102.gif" width=300>
 
 ### Required Features
 
